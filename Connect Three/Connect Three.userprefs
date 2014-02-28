@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/mouseClick.cs">
+    <Files>
+      <File FileName="Assets/scripts/GameBoard.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/pieceColliderSound.cs" Line="8" Column="4" />
+      <File FileName="Assets/scripts/GameControllerScript.cs" Line="17" Column="2" />
+      <File FileName="Assets/scripts/mouseClick.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
